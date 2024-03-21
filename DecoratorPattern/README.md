@@ -1,8 +1,8 @@
-#Decorator Pattern
+# Decorator Pattern
 
-##Description:
+## Description:
 -Java code of implementing decorator pattern. We display it by using a beverage-flavour example.
-##UML Sceme for the code__:
+## UML Sceme for the code__:
 
 ## Learning Resources
 
