@@ -29,7 +29,7 @@ This repository provides Java code implementations for various design patterns, 
 
 ## Learning Resources
 
-- The code is based on [Video Tutorial Playlist](https://m.youtube.com/watch?v=C_oPLDaSy-8)
+- The code is based on [Video Tutorial Playlist](https://www.youtube.com/playlist?list=PLCOO6j3cDu94FP8pMPOigpyy0XoQkdKBW)
 - Additional resources (books):
   - Head First: Design Patterns.
   - Design Patterns: Elements of Reusable Object-Oriented Software. 
