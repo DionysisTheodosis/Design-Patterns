@@ -19,7 +19,7 @@ This repository provides Java code implementations for various design patterns, 
 - Decorator: [DecoratorPattern](https://github.com/DionysisTheodosis/Design-Patterns/tree/main/DecoratorPattern)
 
 ### Behavioral
-- Observer
+- Observer: [ObservarePattern](https://github.com/DionysisTheodosis/Design-Patterns/tree/main/ObserverPattern) 
 - Strategy: [StrategyPattern](https://github.com/DionysisTheodosis/Design-Patterns/tree/main/StrategyPattern)
 
 - Command
