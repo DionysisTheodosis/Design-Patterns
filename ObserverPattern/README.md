@@ -3,7 +3,7 @@
 ## Description:
 - Java code of implementing Observer Pattern. We display it by using Youtube channel as observable and Users as subscribers(Observers).
 ## UML Sceme for the code:
-![uml.png](https://github.com/DionysisTheodosis/Design-Patterns/blob/main/DecoratorPattern/uml.png)
+![uml.png](https://github.com/DionysisTheodosis/Design-Patterns/blob/main/ObserverPattern/UML.png)
 
 ## Learning Resources
 
