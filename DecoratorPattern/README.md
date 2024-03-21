@@ -3,7 +3,7 @@
 ## Description:
 - Java code of implementing decorator pattern. We display it by using a beverage-flavour example.
 ## UML Sceme for the code:
-![java-free-download-free-png (Custom) (1)]([https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/java-free-download-free-png%20(Custom)%20(1).png?raw=true](https://github.com/DionysisTheodosis/Design-Patterns/blob/main/DecoratorPattern/uml.png)) 
+![uml]([https://github.com/DionysisTheodosis/DionysisTheodosis/blob/main/java-free-download-free-png%20(Custom)%20(1).png?raw=true](https://github.com/DionysisTheodosis/Design-Patterns/blob/main/DecoratorPattern/uml.png)) 
 
 ## Learning Resources
 
