@@ -8,5 +8,5 @@
 ## Learning Resources
 
 - The code is based on [Video Tutorial](https://youtu.be/GCraGHx6gso?list=PLCOO6j3cDu94FP8pMPOigpyy0XoQkdKBW)
-- Additional resources (books):
+- Additional resources:
   - [Wikipedia Decorator Pattern](https://en.wikipedia.org/wiki/Decorator_pattern).
