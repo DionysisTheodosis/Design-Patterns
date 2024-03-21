@@ -16,7 +16,7 @@ This repository provides Java code implementations for various design patterns, 
 - Proxy
 - Bridge
 - Composite
-- Decorator
+- Decorator: [DecoratorPattern](https://github.com/DionysisTheodosis/Design-Patterns/tree/main/DecoratorPattern)
 
 ### Behavioral
 - Observer
