@@ -20,7 +20,8 @@ This repository provides Java code implementations for various design patterns, 
 
 ### Behavioral
 - Observer
-- Strategy
+- Strategy: [StrategyPattern](https://github.com/DionysisTheodosis/Design-Patterns/tree/main/StrategyPattern)
+
 - Command
 - Template Method
 - Iterator
