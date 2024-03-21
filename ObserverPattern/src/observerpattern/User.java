@@ -1,8 +1,8 @@
 package observerpattern;
 
 public class User implements IObserver{
-    private String username;
-    private YoutubeChannel youtubeChannel; 
+    private final String username;
+    private final YoutubeChannel youtubeChannel; 
     private ObservableStatus status;
     
     public User(YoutubeChannel youtubeChannel,String username){

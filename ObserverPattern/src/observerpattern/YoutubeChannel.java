@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class YoutubeChannel implements IObservable{
-    private List<IObserver> observers;
+    private final List<IObserver> observers;
     private ObservableStatus status;
     
     public YoutubeChannel(){
