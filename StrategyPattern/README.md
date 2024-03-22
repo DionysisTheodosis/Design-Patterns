@@ -3,7 +3,7 @@
 ## Description:
 - Java code of implementing strategy pattern. We display it by using Animals with different behaviors example.
 ## UML Sceme for the code:
-![uml.png](https://github.com/DionysisTheodosis/Design-Patterns/blob/main/DecoratorPattern/uml.png) 
+![uml.png](https://github.com/DionysisTheodosis/Design-Patterns/blob/main/StrategyPattern/uml.png) 
 
 ## Learning Resources
 
